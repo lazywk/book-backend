@@ -7,10 +7,10 @@
 // }
 
 const pgConfig = {
-	host: 'localhost',
+	host: 'dpg-ck1vm2821fec739nsokg-a',
 	port: 5432,
-	user:'postgres',
-	password: '010203',
+	user:'book_backend_user',
+	password: 'aXSCmDA8nVqZ2YaLNCUk7TrOQqhzj4nl',
 	database: 'book'
 }
 
